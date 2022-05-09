@@ -19,7 +19,7 @@ Using Insomnia or any other API testing client, navigate to this link `https://m
 ## Made With:
 JavaScript, Node.js, Express.js, Sequelize, MySQL, bcrypt
 ## Contribution 
-Issues can be created at any time [here](https://github.com/unis434/JustTechNews/issues).
+Issues can be created at any time [here](https://github.com/Unis434/just-tech-news/issues).
 ## Questions
 Please reach out to me via GitHub or Email for additional questions.
 
