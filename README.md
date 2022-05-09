@@ -15,16 +15,16 @@ To install, clone the respository or download the zip to your targeted directory
 ## Usage
 Using Insomnia or any other API testing client, navigate to this link `https://mysterious-wildwood-30214.herokuapp.com/api/users` in a POST request with appropriate JSON data. From there, you can send posts, upvote, and post comments, etc. All routes are located in the routes/ file. 
 ## Credits
-[Jamel James](https://github.com/jrj-sys)
+[Unisa Kamara](https://github.com/unis434)
 ## Made With:
 JavaScript, Node.js, Express.js, Sequelize, MySQL, bcrypt
 ## Contribution 
-Issues can be created at any time [here](https://github.com/jrj-sys/JustTechNews/issues).
+Issues can be created at any time [here](https://github.com/unis434/JustTechNews/issues).
 ## Questions
 Please reach out to me via GitHub or Email for additional questions.
 
-- [GitHub](https://github.com/jrj-sys)
-- Email: jamesjamel99@gmail.com
+- [GitHub](https://github.com/unis434)
+- Email: unisk434@gmail.com
 
 ## License
 Copyright (C) [2022] [JustTechNews]
