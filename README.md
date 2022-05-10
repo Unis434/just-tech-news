@@ -10,10 +10,12 @@ A HackerNews remake allowing authenticated users to post articles, upvote posts,
 3. [Installation](#Installation)
 4. [Usage](#Usage)
 6. [Credits](#Credits)
+7. 
 ## Installation
 To install, clone the respository or download the zip to your targeted directory. Navigate to said directory and run `npm i` within your terminal. Create a `.env` file with the necessary environment variables such as `DB_NAME='just_tech_news_db`, `DB_USER=''`, and `DB_PW=''`.
+
 ## Usage
-Using Insomnia or any other API testing client, navigate to this link `https://mysterious-wildwood-30214.herokuapp.com/api/users` in a POST request with appropriate JSON data. From there, you can send posts, upvote, and post comments, etc. All routes are located in the routes/ file. 
+From here, you can send posts, upvote, and post comments, etc. All routes are located in the routes/ file. 
 ## Credits
 [Unisa Kamara](https://github.com/unis434)
 ## Made With:
@@ -40,4 +42,5 @@ FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIREC
 OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, 
 DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS 
 ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
 
